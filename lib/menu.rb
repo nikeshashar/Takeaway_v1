@@ -10,7 +10,7 @@ class Menu
 			"chips" => 1.50,
 			"mayo" => 0.50,
 			"sausage" => 2.00,
-			pie => 
+			"pie" => 2.00 
 		}
 	end
 end
